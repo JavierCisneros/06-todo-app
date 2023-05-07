@@ -10,5 +10,5 @@
 
 ## Production mode
 
-1. Execute ```npm run build````
+1. Execute ```npm run build```
 2. Deploy the ```dist``` folder
