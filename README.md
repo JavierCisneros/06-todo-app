@@ -12,3 +12,7 @@
 
 1. Execute ```npm run build```
 2. Deploy the ```dist``` folder
+
+##Use the app!
+
+https://javiercisneros.github.io/todo-app/
